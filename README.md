@@ -17,14 +17,15 @@ All system design youtube channels
 11.	https://www.youtube.com/c/GauravSensei/videos
 12.	https://www.youtube.com/c/EngineeringwithUtsav/videos
 13.	https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/videos
-14.	https://www.youtube.com/c/ExponentTV/videos
-15.	
+14.	https://www.youtube.com/c/ExponentTV/videos	
 16.	https://www.youtube.com/c/TheInterviewSage/videos
 17.	https://www.youtube.com/c/ThinkSoftware/videos
 18.	https://www.youtube.com/c/SuccessinTech/videos
 19.	https://www.youtube.com/c/TechDummiesNarendraL/videos
-                  20. https://www.youtube.com/c/OktaDev/videos
-
+20. https://www.youtube.com/c/OktaDev/videos
+                  
+Coursera :
+https://www.coursera.org/learn/cloud-networking?specialization=cloud-computing#syllabus
 
 Important Books :
 1.	Amazon.com: System Design Interview – An Insider's Guide eBook: Xu, Alex: Kindle Store
